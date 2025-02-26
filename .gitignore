@@ -1,0 +1,3 @@
+#Ignore Kaggle project files
+/data/Outputs/
+*.html

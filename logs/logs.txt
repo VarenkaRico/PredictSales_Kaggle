@@ -1,0 +1,60 @@
+-----New Execution----
+ETL preprocess
+2025-02-19 23:54:12.804116:Ok loading train data:Ok
+2025-02-19 23:54:12.804116:Ok loading item_categories data:Ok
+2025-02-19 23:54:12.849015:Ok loading items data:Ok
+2025-02-19 23:54:12.849619:Ok loading shops data:Ok
+2025-02-19 23:54:12.881252:Ok cleaning Catalogs:Ok
+2025-02-19 23:54:12.881252:Ok spliting cat_categories_item:Ok
+2025-02-19 23:54:12.881252:Ok spliting cat_shops:Ok
+2025-02-19 23:54:15.129254: Ok merging tables: Ok
+2025-02-19 23:54:33.675293: Ok transforming dates: Ok
+2025-02-19 23:54:55.492944: Ok saving sales_train_complete.csv: Ok
+-----New Execution----
+ETL preprocess
+2025-02-24 19:52:51.300715:Ok loading train data:Ok
+2025-02-24 19:52:51.301256:Ok loading item_categories data:Ok
+2025-02-24 19:52:51.352356:Ok loading items data:Ok
+2025-02-24 19:52:51.352356:Ok loading shops data:Ok
+2025-02-24 19:52:51.423927:Ok cleaning Catalogs:Ok
+2025-02-24 19:52:51.434277:Ok spliting cat_categories_item:Ok
+2025-02-24 19:52:51.434277:Ok spliting cat_shops:Ok
+2025-02-24 19:52:54.350549:Ok merging tables:Ok
+2025-02-24 19:53:14.068522:Ok transforming dates:Ok
+2025-02-24 19:53:37.699507:Ok saving sales_train_complete.csv:Ok
+-----New Execution----
+ETL preprocess
+2025-02-26 08:59:48.233270:Ok loading train data:Ok
+2025-02-26 08:59:48.242726:Ok loading item_categories data:Ok
+2025-02-26 08:59:48.283012:Ok loading items data:Ok
+2025-02-26 08:59:48.290609:Ok loading shops data:Ok
+2025-02-26 08:59:48.292548:Error cleaning Catalogs: 'DataFrame' object has no attribute 'map'
+2025-02-26 08:59:48.301066:Ok spliting cat_categories_item:Ok
+2025-02-26 08:59:48.302895:Ok spliting cat_shops:Ok
+2025-02-26 08:59:50.182807:Ok merging tables:Ok
+2025-02-26 08:59:50.841274:Ok transforming dates:Ok
+2025-02-26 09:00:40.389252:Ok saving sales_train_complete.csv:Ok
+-----New Execution----
+ETL preprocess
+2025-02-26 09:02:25.922670:Ok loading train data:Ok
+2025-02-26 09:02:25.928414:Ok loading item_categories data:Ok
+2025-02-26 09:02:25.967538:Ok loading items data:Ok
+2025-02-26 09:02:25.973525:Ok loading shops data:Ok
+2025-02-26 09:02:25.975213:Error cleaning Catalogs: 'DataFrame' object has no attribute 'map'
+2025-02-26 09:02:25.984898:Ok spliting cat_categories_item:Ok
+2025-02-26 09:02:25.986152:Ok spliting cat_shops:Ok
+2025-02-26 09:02:27.994886:Ok merging tables:Ok
+2025-02-26 09:02:28.671422:Ok transforming dates:Ok
+2025-02-26 09:03:20.769060:Ok saving sales_train_complete.csv:Ok
+-----New Execution----
+ETL preprocess
+2025-02-26 09:03:32.493389:Ok loading train data:Ok
+2025-02-26 09:03:32.499507:Ok loading item_categories data:Ok
+2025-02-26 09:03:32.573775:Ok loading items data:Ok
+2025-02-26 09:03:32.585102:Ok loading shops data:Ok
+2025-02-26 09:03:32.585755:Error cleaning Catalogs: 'DataFrame' object has no attribute 'map'
+2025-02-26 09:03:32.597220:Ok spliting cat_categories_item:Ok
+2025-02-26 09:03:32.602593:Ok spliting cat_shops:Ok
+2025-02-26 09:03:34.839196:Ok merging tables:Ok
+2025-02-26 09:03:35.574712:Ok transforming dates:Ok
+2025-02-26 09:04:25.363841:Ok saving sales_train_complete.csv:Ok
