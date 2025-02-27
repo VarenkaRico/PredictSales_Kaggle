@@ -1,6 +1,5 @@
 #Ignore Kaggle project files
 /data/Outputs/
 *.html
-/.venv/Lib/
-/.venv/Scripts/
+/.venv/
 

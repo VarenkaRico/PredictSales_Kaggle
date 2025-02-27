@@ -14,7 +14,7 @@ def fun_clean_categories(cat):
     """
 
     # Remove whitespace
-    cat = cat.map(lambda x: ' '.join(x.split()) if isinstance(x, str) else x)
+    cat = cat.apply(lambda col: col.map(lambda x: ' '.join(x.split()) if isinstance(x, str) else x))
 
     return cat
 

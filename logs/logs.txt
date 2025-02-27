@@ -58,3 +58,51 @@ ETL preprocess
 2025-02-26 09:03:34.839196:Ok merging tables:Ok
 2025-02-26 09:03:35.574712:Ok transforming dates:Ok
 2025-02-26 09:04:25.363841:Ok saving sales_train_complete.csv:Ok
+-----New Execution----
+ETL preprocess
+2025-02-27 00:46:45.958475:Ok loading train data:Ok
+2025-02-27 00:46:45.967376:Ok loading item_categories data:Ok
+2025-02-27 00:46:46.034997:Ok loading items data:Ok
+2025-02-27 00:46:46.045021:Ok loading shops data:Ok
+2025-02-27 00:46:46.104047:Ok cleaning Catalogs:Ok
+2025-02-27 00:46:46.115992:Ok spliting cat_categories_item:Ok
+2025-02-27 00:46:46.117603:Ok spliting cat_shops:Ok
+2025-02-27 00:46:49.043256:Ok merging tables:Ok
+2025-02-27 00:46:50.302072:Ok transforming dates:Ok
+2025-02-27 00:48:06.357726:Ok saving sales_train_complete.csv:Ok
+-----New Execution----
+ETL preprocess
+2025-02-27 00:58:28.345448:Ok loading train data:Ok
+2025-02-27 00:58:28.353777:Ok loading item_categories data:Ok
+2025-02-27 00:58:28.416942:Ok loading items data:Ok
+2025-02-27 00:58:28.425196:Ok loading shops data:Ok
+2025-02-27 00:58:28.478006:Ok cleaning Catalogs:Ok
+2025-02-27 00:58:28.493358:Ok spliting cat_categories_item:Ok
+2025-02-27 00:58:28.494901:Ok spliting cat_shops:Ok
+2025-02-27 00:58:31.463318:Ok merging tables:Ok
+2025-02-27 00:58:32.942176:Ok transforming dates:Ok
+2025-02-27 00:59:48.366541:Ok saving sales_train_complete.csv:Ok
+-----New Execution----
+ETL preprocess
+2025-02-27 01:02:52.096432:Ok loading train data:Ok
+2025-02-27 01:02:52.104832:Ok loading item_categories data:Ok
+2025-02-27 01:02:52.163438:Ok loading items data:Ok
+2025-02-27 01:02:52.171713:Ok loading shops data:Ok
+2025-02-27 01:02:52.221527:Ok cleaning Catalogs:Ok
+2025-02-27 01:02:52.225588:Ok spliting cat_categories_item:Ok
+2025-02-27 01:02:52.226884:Ok spliting cat_shops:Ok
+2025-02-27 01:02:54.960074:Ok merging tables:Ok
+2025-02-27 01:02:56.301652:Ok transforming dates:Ok
+2025-02-27 01:04:06.402383:Ok saving sales_train_complete.csv:Ok
+-----New Execution----
+ETL preprocess
+2025-02-27 05:09:45.615613: Ok loading train data: Ok
+2025-02-27 05:09:45.623458:Ok loading item_categories data:Ok
+2025-02-27 05:09:45.671327:Ok loading items data:Ok
+2025-02-27 05:09:45.678725:Ok loading shops data:Ok
+2025-02-27 05:09:45.712216:Ok cleaning Catalogs:Ok
+2025-02-27 05:09:45.723848:Ok spliting cat_categories_item:Ok
+2025-02-27 05:09:45.724979:Ok spliting cat_shops:Ok
+2025-02-27 05:09:47.701148:Ok merging tables:Ok
+2025-02-27 05:09:48.485142:Ok transforming dates:Ok
+2025-02-27 05:10:35.849069:Ok saving sales_train_complete.csv:Ok
